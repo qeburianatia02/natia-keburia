@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+.profession {
+    color: blue;
+}
+
+section{
+    width: 300px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.text {
+    font-size: 20px;
+    font-weight: 600;
+    align-items: center;
+}
+#btn1 {
+    color: brown;
+    margin-bottom: 10px;
+}
